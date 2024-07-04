@@ -36,3 +36,5 @@ class Solution:
             else:
                 l+=1
 ```
+
+- LeetCode questions: [Two pointers](https://leetcode.com/tag/two-pointers/)
