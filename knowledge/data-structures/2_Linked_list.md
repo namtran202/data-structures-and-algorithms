@@ -1,10 +1,10 @@
 # Array
-### 1. Definition:
+### 1. Definition
 A linked list is a linear data structure in which elements, known as nodes, are not stored at contiguous memory locations. Instead, each node contains two parts:
 - Data: The value or the element.
 - Pointer (or Reference): A reference to the next node in the sequence.
 
-### 2. Types of Linked Lists:
+### 2. Types of Linked Lists
 - Singly Linked List: Each node has a single link to the next node.
     - Implementation:
 ```python
@@ -133,7 +133,7 @@ LeetCode questions: [Doubly Linked List](https://leetcode.com/tag/doubly-linked-
 | addTail| O(n) | O(1) |
 | deleteAtIndex | O(n) | O(n) |
 
-### 4. Compare Array vs Linked List:
+### 4. Compare Array vs Linked List
 | Criteria | Array | Linked List |
 |----------|-------|-------------|
 | Memory| Arrays have a fixed size allocated at creation. If an array's size is specified to be larger than needed, it wastes memory. (except for dynamic array).<br>  Memory usage is contiguous; the entire array is stored in a single block of memory.| Linked lists are dynamic in size; they grow and shrink as needed. <br> Memory usage is non-contiguous; each node can be stored anywhere in memory. |

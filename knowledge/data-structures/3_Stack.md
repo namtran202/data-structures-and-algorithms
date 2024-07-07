@@ -1,8 +1,8 @@
 # Stack
-### 1. Definition:
+### 1. Definition
 A stack is a linear data structure that follows the Last In, First Out (LIFO) principle. This means the last element added to the stack will be the first one to be removed.
 
-### 2. Basic Operations:
+### 2. Basic Operations
 - Push: Adds an element to the top of the stack. TC: O(1)
 - Pop: Removes the top element from the stack. TC: O(1)
 - Peek/Top: Returns the top element of the stack without removing it. TC: O(1)
@@ -38,4 +38,4 @@ class Stack:
 - Function Call Management: Manages function calls and local variables (call stack) in programming languages.
 
 ### 5. Advanced algorithm
-- Monotonic stack
+- [Monotonic stack](../algorithms/3_Monotonic_stack.md)

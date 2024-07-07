@@ -1,11 +1,12 @@
-# Two pointers:
+# Two pointers
+### 1. Definition
 - A commonly used approach in problems involving arrays and linked lists
 - Involves using two pointers (or indices) to traverse the array (or list) from different directions or at different speeds
     - One slow-runner and the other fast-runner
     - One pointer starts from the beginning while the other pointer starts from the end
 - Useful for solving problems related to searching, sorting, and finding pairs or subarrays that meet certain conditions
 
-## Example:
+### 2. Example
 - One slow-runner and the other fast-runner
 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
 
