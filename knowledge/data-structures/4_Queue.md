@@ -1,4 +1,4 @@
-# Stack
+# Queue
 ### 1. Definition
 A queue is a linear data structure that follows the First In, First Out (FIFO) principle. This means the first element added to the queue will be the first one to be removed.
 
@@ -38,4 +38,7 @@ class Queue:
 - Buffer Management: Used in handling data streams (e.g., IO buffers).
 
 ### 5. Advanced algorithm
-- [Monotonic queue](../algorithms/3_Monotonic_stack.md)
+- [Monotonic queue](../algorithms/4_Monotonic_queue.md)
+
+### 6. LeetCode questions: 
+[Queue](https://leetcode.com/tag/queue/)
