@@ -58,7 +58,7 @@ class SinglyLinkedList:
         prev.next = prev.next.next
         self.size -= 1
 ```
-Example: [LeetCode](https://leetcode.com/tag/linked-list/)
+LeetCode questions: [Singly Linked List](https://leetcode.com/tag/linked-list/)
 
 - Doubly Linked List: Each node has two links, one to the next node and one to the previous node.
     - Implementation:
@@ -120,7 +120,7 @@ class DoublyLinkedList:
         self.size -= 1
 ```
 
-Example: [LeetCode](https://leetcode.com/tag/doubly-linked-list/)
+LeetCode questions: [Doubly Linked List](https://leetcode.com/tag/doubly-linked-list/)
 - Circular Linked List: The last node points back to the first node, forming a circle.
 
 ### 3. Common operators and time complexity
