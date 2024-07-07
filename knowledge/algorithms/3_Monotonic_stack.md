@@ -18,3 +18,5 @@ class Solution:
             stack.append(i)
         return res[:len(nums)//2]
 ```
+
+- LeetCode problems: [Monotonic stack](https://leetcode.com/tag/monotonic-stack/)

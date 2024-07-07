@@ -39,3 +39,6 @@ class Stack:
 
 ### 5. Advanced algorithm
 - [Monotonic stack](../algorithms/3_Monotonic_stack.md)
+
+### 6. LeetCode questions: 
+[Stack](https://leetcode.com/tag/stack/)
