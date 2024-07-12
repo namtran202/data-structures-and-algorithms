@@ -58,7 +58,6 @@ class SinglyLinkedList:
         prev.next = prev.next.next
         self.size -= 1
 ```
-LeetCode questions: [Singly Linked List](https://leetcode.com/tag/linked-list/)
 
 - Doubly Linked List: Each node has two links, one to the next node and one to the previous node.
     - Implementation:
@@ -120,7 +119,6 @@ class DoublyLinkedList:
         self.size -= 1
 ```
 
-LeetCode questions: [Doubly Linked List](https://leetcode.com/tag/doubly-linked-list/)
 - Circular Linked List: The last node points back to the first node, forming a circle.
 
 ### 3. Common operators and time complexity
@@ -141,3 +139,7 @@ LeetCode questions: [Doubly Linked List](https://leetcode.com/tag/doubly-linked-
 | Insertion/Deletion | Inserting or deleting at the beginning or middle requires shifting elements, which is O(n) | nserting or deleting in the middle requires traversal to the point of insertion/deletion, which is O(n). <br> Overall, insertion/deletion can be more efficient in linked lists compared to arrays, especially for large datasets. |
 | Cache-friendly | Arrays are cache-friendly because their elements are stored in contiguous memory locations. Accessing sequential elements leads to fewer cache misses. | Linked lists are not cache-friendly because their elements are scattered throughout memory. This can lead to more cache misses and slower performance. |
 | Use cases | Suitable for situations where quick access to elements is needed (e.g., accessing elements by index). <br> Ideal for fixed-size collections where the size doesn't change often. | Suitable for scenarios where frequent insertion and deletion are required. <br> Ideal for dynamic collections where the size changes often. |
+
+### 5. LeetCode questions:
+- [Singly Linked List](https://leetcode.com/tag/linked-list/)
+- [Doubly Linked List](https://leetcode.com/tag/doubly-linked-list/)

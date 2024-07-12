@@ -34,4 +34,5 @@ Note: Deletion/Insertion at end for dynamic arrays is O(1) amortized
 - [Two pointers](../algorithms/1_Two_pointers.md)
 - [Sliding window](../algorithms/2_Sliding_window.md)
 
-### 6. LeetCode questions: [Array](https://leetcode.com/tag/array/)
+### 6. LeetCode questions: 
+[Array](https://leetcode.com/tag/array/)

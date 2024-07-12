@@ -19,4 +19,5 @@ class Solution:
         return res[:len(nums)//2]
 ```
 
-- LeetCode problems: [Monotonic stack](https://leetcode.com/tag/monotonic-stack/)
+### 3. LeetCode problems: 
+[Monotonic stack](https://leetcode.com/tag/monotonic-stack/)
