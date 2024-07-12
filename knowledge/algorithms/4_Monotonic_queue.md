@@ -31,4 +31,5 @@ class Solution:
         return maxWindow
 ```
 
-- LeetCode problems: [Monotonic queue](https://leetcode.com/tag/monotonic-queue/)
+### 3. LeetCode problems: 
+[Monotonic queue](https://leetcode.com/tag/monotonic-queue/)
